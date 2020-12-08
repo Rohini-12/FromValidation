@@ -1,0 +1,11 @@
+input.ng-invalid{
+
+    border:2px solid pink;
+    color:red;
+}
+
+input.ng-valid{
+
+    border:2px solid blue;
+    color:green;
+}
